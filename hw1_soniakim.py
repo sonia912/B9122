@@ -1,4 +1,10 @@
 #Homework Assignment for HW1
+#October 10, 2020 I am modifying this .py file through Terminal.
+x = 0
+n = 3
+while n < 10:
+	x = x + n
+	print(x, end = " ") 
 
 #Question 1
 def compute_emi(rate, N, PV, FV):
